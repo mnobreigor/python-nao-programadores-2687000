@@ -3,6 +3,7 @@ ano_formatura = 2010
 
 # Considerando que as variáveis acima correspondem a 'Gerlaine', descubra a idade dela no ano da sua formatura
 idade = ano_formatura - ano_nascimento
+print(idade)
 
 # Escreva expressões comparativas usando os operadores relacionais >, <= e ==. Imprima na tela as respostas
 print(ano_nascimento > ano_formatura)
